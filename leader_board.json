@@ -1,0 +1,32 @@
+[
+    {
+        "id" : 1,
+        "title" : "SSC",
+        "desc" : "",
+        "images" : "https://static.toiimg.com/thumb/msid-98262183,width-1280,height-720,resizemode-4/.jpg"
+    },
+    {
+        "id" : 2,
+        "title" : "UPSC",
+        "desc" : "",
+        "images" : "https://static.toiimg.com/thumb/msid-98262183,width-1280,height-720,resizemode-4/.jpg"
+    },
+    {
+        "id" : 3,
+        "title" : "Banking",
+        "desc" : "",
+        "images" : "https://static.toiimg.com/thumb/msid-98262183,width-1280,height-720,resizemode-4/.jpg"
+    },
+    {
+        "id" : 4,
+        "title" : "Teahing",
+        "desc" : "",
+        "images" : "https://static.toiimg.com/thumb/msid-98262183,width-1280,height-720,resizemode-4/.jpg"
+    },
+    {
+        "id" : 5,
+        "title" : "IBPS",
+        "desc" : "",
+        "images" : "https://static.toiimg.com/thumb/msid-98262183,width-1280,height-720,resizemode-4/.jpg"
+    }
+]
