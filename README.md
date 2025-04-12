@@ -1,0 +1,1 @@
+https://swarajya.gumlet.io/swarajya/2018-12/2f7624d3-12f7-451b-8d7a-cbadd13cff8a/fullsizeoutput_64.jpeg?w=610&q=50&compress=true&format=auto![image](https://github.com/user-attachments/assets/1c30520c-29ab-4401-afc1-258ea539b5a3)
